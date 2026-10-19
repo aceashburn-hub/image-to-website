@@ -13,7 +13,7 @@ The instructions are in [CLAUDE.md](CLAUDE.md). Claude Code reads that file auto
 ## Usage
 
 ```bash
-git clone https://github.com/<your-username>/image-to-website.git
+git clone https://github.com/aceashburn-hub/image-to-website.git
 cd image-to-website
 claude
 ```
