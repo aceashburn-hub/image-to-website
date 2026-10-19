@@ -1,0 +1,8 @@
+# Generated sites stay local
+sites/*
+!sites/.gitkeep
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
